@@ -1,0 +1,12 @@
+{
+  "name": "Nakshatra – Your Bright Future",
+  "short_name": "Nakshatra",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14123a",
+  "theme_color": "#14123a",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
